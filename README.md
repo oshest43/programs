@@ -1,2 +1,2 @@
 # programs
-Examples of some useful programs
+Some useful programs
